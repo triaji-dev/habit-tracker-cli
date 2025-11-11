@@ -1,0 +1,232 @@
+{
+  "profiles": [
+    {
+      "id": 1762674560919.5867,
+      "name": "Andi",
+      "joinDate": "2025-11-09T07:49:20.919Z",
+      "currentStreak": 1,
+      "longestStreak": 1
+    },
+    {
+      "id": 1762674893190.6372,
+      "name": "Budi",
+      "joinDate": "2025-11-09T07:54:53.190Z",
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "id": 1762675490236.1533,
+      "name": "Samsul",
+      "joinDate": "2025-11-09T08:04:50.236Z",
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "id": 1762680192941.5928,
+      "name": "Joko",
+      "joinDate": "2025-11-09T09:23:12.941Z",
+      "currentStreak": 0,
+      "longestStreak": 0
+    },
+    {
+      "id": 1762776151545.4521,
+      "name": "Bowo",
+      "joinDate": "2025-11-10T12:02:31.545Z",
+      "currentStreak": 0,
+      "longestStreak": 0
+    }
+  ],
+  "currentProfileId": 1762674560919.5867,
+  "profileHabits": {
+    "1762674560919.5867": [
+      {
+        "id": 1762674877793.126,
+        "name": "Makan Sayuran Sehat",
+        "targetFrequency": 7,
+        "completions": [
+          "2025-11-09T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T07:54:37.793Z",
+        "category": "Kesehatan"
+      },
+      {
+        "id": 1762675112913.3826,
+        "name": "Membuat Repo Baru Github",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-09T07:58:32.913Z",
+        "category": "Produktivitas"
+      },
+      {
+        "id": 1762675125257.2368,
+        "name": "Membuat Postingan Medium",
+        "targetFrequency": 7,
+        "completions": [
+          "2025-11-09T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T07:58:45.257Z",
+        "category": "Umum"
+      },
+      {
+        "id": 1762675199329.9458,
+        "name": "Melihat Film Netflix",
+        "targetFrequency": 1,
+        "completions": [
+          "2025-11-08T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T07:59:59.329Z",
+        "category": "Hobi"
+      },
+      {
+        "id": 1762676265193.104,
+        "name": "Makan Buah",
+        "targetFrequency": 7,
+        "completions": [
+          "2025-11-09T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T08:17:45.193Z",
+        "category": "Kesehatan"
+      }
+    ],
+    "1762674893190.6372": [
+      {
+        "id": 1762674934530.8433,
+        "name": "Olahraga 30 Menit",
+        "targetFrequency": 5,
+        "completions": [
+          "2025-11-08T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T07:55:34.530Z",
+        "category": "Kesehatan"
+      },
+      {
+        "id": 1762674992137.7937,
+        "name": "Menulis Cerita",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-09T07:56:32.137Z",
+        "category": "Produktivitas"
+      },
+      {
+        "id": 1762675057353.6572,
+        "name": "Membaca Buku Setiap Hari",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-09T07:57:37.353Z",
+        "category": "Hobi"
+      },
+      {
+        "id": 1762758485259.5562,
+        "name": "Minum Susu",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-10T07:08:05.259Z",
+        "category": "Kesehatan"
+      }
+    ],
+    "1762675490236.1533": [
+      {
+        "id": 1762675494044.899,
+        "name": "Minum Air 8 Gelas",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-09T08:04:54.044Z",
+        "category": "Kesehatan",
+        "priority": "normal"
+      },
+      {
+        "id": 1762675494048.4453,
+        "name": "Olahraga 30 Menit",
+        "targetFrequency": 5,
+        "completions": [
+          "2025-11-08T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T08:04:54.048Z",
+        "category": "Kesehatan",
+        "priority": "normal"
+      },
+      {
+        "id": 1762675494060,
+        "name": "Membaca Buku 30 Menit",
+        "targetFrequency": 5,
+        "completions": [],
+        "createdAt": "2025-11-09T08:04:54.060Z",
+        "category": "Produktivitas",
+        "priority": "normal"
+      },
+      {
+        "id": 1762675494072.567,
+        "name": "Meditasi 10 Menit",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-09T08:04:54.072Z",
+        "category": "Kesehatan",
+        "priority": "normal"
+      },
+      {
+        "id": 1762675494084.4346,
+        "name": "Belajar Coding",
+        "targetFrequency": 6,
+        "completions": [],
+        "createdAt": "2025-11-09T08:04:54.084Z",
+        "category": "Produktivitas",
+        "priority": "normal"
+      }
+    ],
+    "1762680192941.5928": [
+      {
+        "id": 1762680194396.4805,
+        "name": "Minum Air 8 Gelas",
+        "targetFrequency": 7,
+        "completions": [
+          "2025-11-08T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T09:23:14.396Z",
+        "category": "Kesehatan"
+      },
+      {
+        "id": 1762680194400.1113,
+        "name": "Olahraga 30 Menit",
+        "targetFrequency": 5,
+        "completions": [],
+        "createdAt": "2025-11-09T09:23:14.400Z",
+        "category": "Kesehatan"
+      },
+      {
+        "id": 1762680194412.7446,
+        "name": "Membaca Buku 30 Menit",
+        "targetFrequency": 5,
+        "completions": [
+          "2025-11-08T17:00:00.000Z"
+        ],
+        "createdAt": "2025-11-09T09:23:14.412Z",
+        "category": "Produktivitas"
+      },
+      {
+        "id": 1762680194423.6187,
+        "name": "Meditasi 10 Menit",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-09T09:23:14.423Z",
+        "category": "Kesehatan"
+      },
+      {
+        "id": 1762680194437.0347,
+        "name": "Belajar Coding",
+        "targetFrequency": 6,
+        "completions": [],
+        "createdAt": "2025-11-09T09:23:14.437Z",
+        "category": "Produktivitas"
+      },
+      {
+        "id": 1762680226493.1975,
+        "name": "Menanam Bunga",
+        "targetFrequency": 7,
+        "completions": [],
+        "createdAt": "2025-11-09T09:23:46.493Z",
+        "category": "Hobi"
+      }
+    ],
+    "1762776151545.4521": []
+  }
+}
