@@ -17,7 +17,7 @@
 npm install
 
 # Jalankan aplikasi
-node index.js
+node app.js
 ```
 
 ---
@@ -189,3 +189,4 @@ A: Pastikan sudah ada profil aktif
 Aplikasi ini dibuat untuk tujuan pembelajaran.
 
 ---
+
